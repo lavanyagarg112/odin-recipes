@@ -5,6 +5,7 @@ body {
 
 .heading {
     color: blueviolet;
+    text-align: center;
 }
 
 .links {
@@ -14,4 +15,5 @@ body {
 .subheading {
     color:brown;
     background-color: bisque;
+    text-align: center;
 }
