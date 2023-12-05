@@ -17,3 +17,7 @@ body {
     background-color: bisque;
     text-align: center;
 }
+
+img {
+    align-content: center;
+}
