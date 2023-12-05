@@ -10,7 +10,7 @@ body {
 
 .links {
     color: blue;
-    text-align: center;
+    align-items: center;
     background-color: lightblue;
 }
 
