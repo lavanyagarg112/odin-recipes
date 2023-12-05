@@ -11,6 +11,10 @@ body {
 .links {
     color: blue;
     background-color: lightblue;
+    
+}
+
+.main {
     text-align: center;
     padding: 20px;
     border: 20px;
