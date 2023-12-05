@@ -2,3 +2,16 @@ body {
     background-color: aliceblue;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+.heading {
+    color: blueviolet;
+}
+
+.links {
+    color: blue;
+}
+
+.subheading {
+    color:brown;
+    background-color: bisque;
+}
