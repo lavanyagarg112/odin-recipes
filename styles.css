@@ -21,14 +21,13 @@ body {
     background-color: lightblue;
 }
 
-.main {
-    list-style: inside;
-    padding: 0;
-    
+.main { 
+    padding-left: 0;
+    text-align: center;
+    margin-left: 0
 }
 
 .main li {
-    text-align: center;
     padding-left: 10px;
     padding-right: 10px;
 }
