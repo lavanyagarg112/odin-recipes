@@ -23,10 +23,14 @@ body {
 }
 
 .main {
+    list-style: none;
+    padding: 0;
+}
+
+.main li {
     text-align: center;
-    padding: 20px;
-    border: 20px;
-    margin: 100px;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 .subheading {
