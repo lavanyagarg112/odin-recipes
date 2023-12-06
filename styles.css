@@ -10,8 +10,9 @@ body {
 
 .index {
     display: block;
-    margin: auto 8px;
+    margin: auto;
     background-color: antiquewhite;
+
 }
 
 .links {
